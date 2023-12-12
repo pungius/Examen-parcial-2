@@ -33,15 +33,15 @@ var app = new Framework7({
   		},
 		
 		{
-		path: '/sobre-nosotros/',
-    	url: 'sobre-nosotros.html',
-    	name: 'sobre-nosotros',
+		path: '/usuario/',
+    	url: 'usuario.html',
+    	name: 'usuario',
   		},
 		
 	
 	],
 	dialog: {
-		title: 'Bead baazar',
+		title: 'The store',
 		buttonOk: 'Aceptar',
   	},
 	popup: {

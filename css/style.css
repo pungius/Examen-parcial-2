@@ -19,7 +19,7 @@
 }
 
 .page-content{
-background-image: url("../img/bg inicio.jpg");
+background-image: url("../img/425fa3cac4cfcb8504afb443a98cd70a.jpg");
 background-size: cover;
 
 }
@@ -116,6 +116,75 @@ h1,h2,h3,h4,h5,h6,p{
 #product-columns3 .content{
 	padding-top: 10%;
 }
-.vestido{
-	size: 200px;
+.vestido img{
+	size: 100px;
+}
+
+.info{
+	text-align: center;
+	color:#ee9b00;
+	font-weight: bold;
+	padding-bottom: 10px;
+	padding-top:10px;
+}
+.size{
+	width: 310px;
+	text-align: center;
+}
+.info2{
+	text-align: center;
+	color:#000;
+	}
+
+.fabric{ 
+padding: 20px;
+}
+
+.perfil{
+	width: 200px;
+		text-align: center;
+	padding-top: 40px; 
+	
+}
+.correo{
+	color: #ad2831;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.tittle{
+	color: #ee9b00;
+	font-size: 25px;
+	font-weight: bold;
+	padding-top: 10px;
+	text-align: center;
+}
+.page-content1{
+	background-color:#9DACE5;
+	background-size: cover;
+	padding-bottom: 300px;
+	padding-top:20px;
+}
+ .button-p{
+	font-family:'Josefin Sans', sans-serif;
+	background-color:#ad2831;
+	border-radius: 20px;
+	border:medium 3px;
+	color: #fff;
+	padding: 5px;
+	margin-left: 30px;
+	margin-right:30px;
+	
+	
+	
+}
+#p{
+	text-align: center;
+	padding-bottom: 20px;
+	pading:20px;
+	
+}
+ul .background {
+	background-color:transparent;
 }
