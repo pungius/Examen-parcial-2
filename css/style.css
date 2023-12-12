@@ -163,10 +163,10 @@ padding: 20px;
 .page-content1{
 	background-color:#9DACE5;
 	background-size: cover;
-	padding-bottom: 300px;
+	padding-bottom: 500px;
 	padding-top:20px;
 }
- .button-p{
+ .button-fill{
 	font-family:'Josefin Sans', sans-serif;
 	background-color:#ad2831;
 	border-radius: 20px;
@@ -185,6 +185,6 @@ padding: 20px;
 	pading:20px;
 	
 }
-ul .background {
+.row {
 	background-color:transparent;
 }
