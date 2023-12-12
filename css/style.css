@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+:root{
+	--f7-theme-color:#000814;
+	--f7-navbar-bg-color:#000814; /*navbar*/
+	--f7-navbar-link-color:#ad2831; /*navbar link*/
+	--f7-navbar-text-color:#ee9b00;
+	--f7-bars-bg-color:#000814;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #ee9b00;
+	--f7-tabbar-link-active-color:#ad2831; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+	--f7-panel-bg-color: #ad2831;
+	
+	
+	--stary-night:#000814;
+	--Summer:#ee9b00;
+	--rose: #ad2831;
+}
+
+.page-content{
+background-image: url("../img/bg inicio.jpg");
+background-size: cover;
+
+}
+
+
+body {
+	font-family:'Josefin Sans', sans-serif;
+
+}
+
+
+h1,h2,h3,h4,h5,h6,p{
+	margin: 2px 0;
+}
+
+.img-fluid{
+	max-width: 100%;
+}
+.img-center{
+	display: block;
+	margin: auto;
+}
+
+#nav-categorias .button{
+	border:1px solid #eee;
+	color:#fff;
+	font-size: 10px;
+	text-transform: inherit;
+	
+}
+#nav-categorias .button span{
+	color: #ee9b00;
+	font-size: 16px;
+}
+
+.row-titles .block-title{
+	color: var(--f7-theme-color);
+	font-size: 16px;
+	font-weight: bold;
+}
+.row-titles .block-title-small{
+	color: #ee9b00;
+	font-size: 13px;
+	text-align: end;
+}
+
+.card.product{
+	text-align: center;
+}
+.card.product p{
+	color: #ee9b00;
+}
+.card.product .price{
+	font-weight: 700;
+	color: var(--f7-theme-color);
+}
+
+
+#product-columns .content{
+	padding-top: 10%;
+}
+
+
+
+#nav-panel .list ul{
+	background-color: transparent;
+	font-size: 14px;
+	color: #fff;
+}
+#nav-panel .list span{
+	font-size: 22px;
+}
+
+#nav-panel{
+	background-color: #ad2831;
+	background-size: cover;
+	padding-bottom: 400px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #fff;
+}
+
+#nav-panel img{
+	width: 100px;
+	text-align: center;
+}
+#text{
+	margin-top: 80px;
+
+}
+
+#product-columns2 .content{
+	padding-top: 10%;
+}
+#product-columns3 .content{
+	padding-top: 10%;
+}
+.vestido{
+	size: 200px;
+}
